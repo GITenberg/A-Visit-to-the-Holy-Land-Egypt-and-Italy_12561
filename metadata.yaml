@@ -1,0 +1,39 @@
+_repo: A-Visit-to-the-Holy-Land-Egypt-and-Italy_12561
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dulcken, H. W. (Henry William)
+    alias: Dulcken, Henry William
+    birthdate: 1832
+    deathdate: 1894
+    gutenberg_agent_id: '4538'
+    url: http://www.gutenberg.org/2009/agents/4538
+creator:
+  author:
+    agent_name: Pfeiffer, Ida
+    alias: Pfeiffer, Ida Reyer
+    birthdate: 1797
+    deathdate: 1858
+    gutenberg_agent_id: '3807'
+    url: http://www.gutenberg.org/2009/agents/3807
+    wikipedia: http://en.wikipedia.org/wiki/Ida_Laura_Pfeiffer
+description: Cover -- Contents.
+gutenberg_bookshelf: Egypt
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12561'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Egypt -- Description and travel'
+- !lcc 'DT'
+- !lcsh 'Middle East -- Description and travel'
+- !lcc 'DG'
+- !lcc 'DS'
+- !lcsh 'Italy -- Description and travel'
+- GITenberg
+title: A Visit to the Holy Land, Egypt, and Italy
+url: http://www.gutenberg.org/ebooks/12561
